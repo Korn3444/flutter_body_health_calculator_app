@@ -3,8 +3,6 @@
 # COMPLETE.
 
 
-<kbd><img width="250" height="885" alt="Screenshot 2026-04-05 110925" src="https://github.com/user-attachments/assets/1a1460f5-2d77-4491-80bf-44c85998f4f3" /></kbd>
-
 <kbd><img width="250" height="882" alt="Screenshot 2026-04-05 110911" src="https://github.com/user-attachments/assets/9fda5e46-5c97-4dde-8cc9-f15ccbc4e9ea" /></kbd>
 <br><br>
 <kbd><img width="250" height="884" alt="Screenshot 2026-04-05 110905" src="https://github.com/user-attachments/assets/ac636875-0098-41f8-9928-c330585db490" /></kbd>
